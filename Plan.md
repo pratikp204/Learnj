@@ -4,6 +4,7 @@
    * Hbase
    * hive
    * solr
+   * Redis
 
 ### Processing
    * Spark
